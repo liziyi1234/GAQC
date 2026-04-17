@@ -1,0 +1,1 @@
+nohup python  /mnt/10T/liziyi/GAQC/train.py > '/mnt/10T/liziyi/GAQC/log/GAQC_JUFE-10K_1024_1024.log' 2>&1 &
