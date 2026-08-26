@@ -90,9 +90,9 @@ This design enables GAQC to jointly model both holistic quality perception and l
 
 The overall architecture of GAQC is illustrated below.
 
-<p align="center">
-  <img src="figures/framework.png" width="90%">
-</p>
+```bash
+img src="/github.com/liziyi1234/GAQC/framework.jpg"
+```
 
 GAQC consists of two key components:
 
